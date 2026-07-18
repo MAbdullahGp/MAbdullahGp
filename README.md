@@ -43,24 +43,8 @@
 
 ---
 
-## 🛠️ Arsenal & Tech Stack
 
-<div align="center">
 
-*Hover over the icons to see the magic!* 🪄
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,c,linux,kali,windows,github,vscode,bash,powershell,sqlite&theme=dark&perline=12)](https://skillicons.dev)
-
-<br/>
-
-**Networking & Security Tools** <br/>
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](#)
-[![Nmap](https://img.shields.io/badge/Nmap-004A9C?style=flat-square&logo=nmap&logoColor=white)](#)
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#)
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
